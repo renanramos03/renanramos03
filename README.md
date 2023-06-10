@@ -1,6 +1,7 @@
 ### Olá, me chamo Renan Ramos 🤙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/renanramos03)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/622233684392673280/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanramos03&show_icons=true&theme=cobalt)
 
